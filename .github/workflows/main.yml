@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_FUNCTIONAPP_NAME: your-app-name   # <- your Function App name
+  AZURE_FUNCTIONAPP_NAME: PDFPageDelimiter
 
 jobs:
   deploy:
