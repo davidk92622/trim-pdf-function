@@ -1,0 +1,2 @@
+azure-functions
+pypdf>=5.0.0
